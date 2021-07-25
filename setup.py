@@ -137,7 +137,6 @@ setup(
     install_requires = [
         "future",
         "backports.csv",
-        "mysqlclient",
         "beautifulsoup4",
         "lxml",
         "feedparser",
@@ -146,7 +145,6 @@ setup(
         "scipy",
         "nltk",
         "python-docx",
-        "cherrypy",
         "requests"
     ],
     zip_safe = False
